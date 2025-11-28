@@ -1,1 +1,2 @@
 i am learning how to create github repo
+editing this file in second branch
